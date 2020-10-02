@@ -19,11 +19,11 @@ Write it in first (I) or third (Your Name Here) person.
 
 ## Current Role
 
-Grace Hopper Celebration Attendee
+Software Engineer at Cisco
 
 ## Recognition
 
-- 2020 Awesome Woman in Technology Award
+- Grace Hopper attendee 2020
 
 ## Social Media
 
